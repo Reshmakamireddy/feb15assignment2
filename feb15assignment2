@@ -1,0 +1,11 @@
+a=int(input("Enter a value:"))
+b=int(input("Enter b value:"))
+print(a//b)
+print(a/b)
+
+Output:-
+Enter a value:6
+Enter b value:3
+2
+2.0
+
